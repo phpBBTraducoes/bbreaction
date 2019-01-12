@@ -46,8 +46,8 @@ $lang = array_merge($lang, array(
 	'REACTIONS_POSTS_OVERVIEW'			=> 'Visão geral da mensagem',
 	'REACTIONS_USER_OVERVIEW'			=> 'Visão geral do usuário',
 	
-	'BBREACTION_GIVVEN'					=> 'Dado',
-	'BBREACTION_RECIEVED'				=> 'Recebido',
+	'BBREACTION_GIVVEN'					=> 'Dada',
+	'BBREACTION_RECIEVED'				=> 'Recebida',
 	'BBREACTION_NO_RECORDS'				=> 'Nenhuma reação disponível ainda',
 	'UCP_BBREACTION_EXPLAIN'			=> 'Uma visão geral das reações dadas e recebidas',
 	'ACL_U_BBREACTION'					=> 'Pode usar BBreaction',
