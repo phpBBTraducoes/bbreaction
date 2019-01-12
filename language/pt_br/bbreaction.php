@@ -22,7 +22,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'BBREACTION'						=> 'BBreaction',
+	'BBREACTION'						=> 'Reação',
 	'BBREACTION_TOP_LIST'				=> 'Lista de reações',
 	'BBREACTION_OTHERS'				    => 'Outros?',
 	
